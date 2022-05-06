@@ -1,0 +1,48 @@
+body{
+    background-color: 79DAE8;
+}
+#tejas{
+    color: black;
+    background-color: red;
+    width: 10%;
+    height: 100px;
+}
+#raju{
+    color: black;
+    background-color: blue;
+    width: 20%;
+    height: 100px;
+}
+#ankit{
+    color: white;
+    background-color: black;
+    width: 30%;
+    height: 100px;
+}
+#tejas:hover{
+    color: white;
+    background-color: green;
+}
+#raju:hover{
+    color: cornflowerblue;
+    background-color: blueviolet;
+    transition: 1s;
+
+}
+#ankit:hover{
+    color: black;
+    background-color: white;
+    transition: 1s;
+}
+#anuj{
+    color: burlywood;
+    background-color: black;
+    width: 40%;
+    height: 100px;
+
+}
+#anuj:hover{
+    color: gray;
+    background-color: yellow;
+    transition: 1s;
+}
